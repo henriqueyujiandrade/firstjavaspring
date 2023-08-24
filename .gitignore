@@ -1,0 +1,25 @@
+/target/
+.DS_Store
+Thumbs.db
+.metadata/
+bin/
+
+.classpath
+.project
+.settings/
+ 
+.idea/
+out/
+*.iml
+*.iws
+
+target/
+pom.xml.tag
+release.properties
+
+JRE System Library/
+.spring-boot-devtools.properties
+h2*.db
+derby*.db
+/logs/
+  
